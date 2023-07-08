@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+    background-image: linear-gradient(white, black);
+ }
+ p {
+    margin-top: 5%;
+  }
+  div {
+    font-size: xx-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  
+  

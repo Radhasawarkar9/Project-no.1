@@ -1,0 +1,18 @@
+body{
+   font-family:Arial, Helvetica, sans-serif;
+   margin:0;
+   padding:0;
+}
+header{
+    background: rgb(0, 0, 0);
+    color: rgb(251, 8, 8);
+    padding:20px;
+    text-align: center;
+}
+footer{
+  padding:20px;
+  margin-top:20px;
+  color: White;  
+  background-color: black;
+  text-align: center;
+}
